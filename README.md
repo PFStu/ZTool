@@ -1,4 +1,4 @@
-# ZTool - 跨平台系统工具箱 🔧🌐
+# ZTool - Windows系统工具箱 🔧🌐
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/yourname/ztool/build.yml)](https://github.com/PFStu/ZTool/actions)
